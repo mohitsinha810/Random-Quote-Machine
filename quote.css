@@ -1,0 +1,15 @@
+p{
+	font-size:x-large;
+}
+#box{
+		text-align:center;
+		background-color:white;
+		height:auto;
+		padding:40px;
+		width:500px;
+		margin-top:200px;
+		font-weight:bold;
+}
+a{
+	color:white;
+}
